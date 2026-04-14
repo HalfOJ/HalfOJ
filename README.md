@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I'm Tommy<br><br>Computer Science student at Arizona State University (Barrett Honors College)  <br>Currently building projects in Python, Java, and full-stack development  <br><br>---<br><br>Tech Stack<br>- Languages: Java, Python<br>- Tools: Git, GitHub, VS Code, IntelliJ<br>- Concepts: Data Structures, OOP, Algorithms<br><br>---<br><br>Projects<br>To-Do List CLI (Python)  <br>- Built a command-line productivity tool with task management and JSON-based persistence  <br>- Implemented due dates and priority-based organization  <br><br>*(More projects coming soon...)*<br><br>---<br><br>## Currently Working On<br>- Improving data structures & algorithms skills  <br>- Building a full-stack web application  <br>- Exploring AI / machine learning projects  <br><br>---<br><br>## Connect With Me<br>- Email: tommytruong203@gmail.com
 
 
