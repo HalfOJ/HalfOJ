@@ -32,7 +32,7 @@ Data Structures • Object-Oriented Programming • Time Complexity
 - Implemented due dates and priority-based organization  
 - Structured modular code for scalability and maintainability  
 
-👉 [View Project](https://github.com/HalfOJ/YOUR-REPO-NAME)
+👉 [View Project](https://github.com/HalfOJ/First-Project)
 
 ---
 
