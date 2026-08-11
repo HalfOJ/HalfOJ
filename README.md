@@ -1,4 +1,4 @@
-# Hi, I'm Tommy 👋
+# Hi, I'm Tommy
 
 Computer Science @ Arizona State University (Barrett Honors College)  
 Aspiring Software Engineer / AI Engineer  
