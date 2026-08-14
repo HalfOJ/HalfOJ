@@ -2,13 +2,13 @@
 
 Computer Science @ Arizona State University (Barrett Honors College)  
 Aspiring Software Engineer / AI Engineer  
-Building projects in Python, Java, and full-stack development  
+Building projects in Python, Java
 
 ---
 
 ## About Me
 - Currently focused on **data structures, algorithms, and real-world projects**
-- Interested in **AI, backend systems, and scalable applications**
+- Interested in **AI and scalable applications**
 - Working toward my **first software engineering internship**
 
 ---
@@ -21,7 +21,7 @@ Java • Python
 Git • GitHub • VS Code • IntelliJ • PyCharm  
 
 **Concepts:**  
-Data Structures • Object-Oriented Programming • Time Complexity  
+Data Structures • Object-Oriented Programming • Discrete Mathematics
 
 ---
 
@@ -37,7 +37,6 @@ Data Structures • Object-Oriented Programming • Time Complexity
 ---
 
 ## Currently Working On
-- Building a **full-stack web application**
 - Practicing **data structures & algorithms (LeetCode)**
 - Exploring **AI / machine learning projects**
 
